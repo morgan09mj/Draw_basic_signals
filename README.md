@@ -4,7 +4,7 @@
 1. First, we execute the cell related to adding the necessary libraries.
 2. Draw the two cosine and exponential signals in the notebook with the given specifications.
 
-### Sound summarization
+## Sound summarization
 1. We record our voice using our mobile phone voice recording software (up to two sentences).
 2. Using the following site, we convert our file format to wav.
 https://cloudconvert.com/m4a-to-wav
